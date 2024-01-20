@@ -37,10 +37,7 @@ class Programmer
        </p>
 <figure>
 	<embed src="https://wakatime.com/share/@marcodotcastro/7cd3cbfb-1783-43d5-9708-4d309157fe7a.svg"></embed></figure>
-```ruby 
-	end 
-end 
-```
+
 
 
 
