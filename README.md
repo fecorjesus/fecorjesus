@@ -17,9 +17,9 @@ class Programmer
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
 
 
-// <h3>Open Source Projects</h3>
-// <table>
-  //  <thead align="center">
+ <h3>Open Source Projects</h3>
+ <table>
+   <thead align="center">
         <tr border: none;>
             <td><b>Id</b></td>
 	    <td><b>Projects</b></td>
