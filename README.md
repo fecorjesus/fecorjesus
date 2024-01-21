@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe Correia de Jesus
 
-```ruby 
+```javaScript 
 class Programmer
 
 	def initialize() 
